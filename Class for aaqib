@@ -1,0 +1,8 @@
+print('Hello World!')
+study = input("Are you learning?\n").lower()
+if study == "no":
+  print("very BAD!!!")
+elif study == "yes":
+  print("Good JOB!!!")
+else:
+  print("Error Error that is not correct!!!!!")
